@@ -1,0 +1,8 @@
+:host {
+  all: unset;
+  all: initial;
+}
+
+#WebsiteTrackerProModal {
+  z-index: 999999999999999999;
+}
